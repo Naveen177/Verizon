@@ -1,7 +1,0 @@
-Practice session A::
-<<<<<<< HEAD
-practise in Master:
-
-=======
-In Dev Branch:wq
->>>>>>> dev
